@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+
+langchain
+langchain-google-genai
+langchain-community
+
+# Repo Analyzer dependencies
+PyGithub
+chromadb
+sentence-transformers
+gitpython
